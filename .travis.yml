@@ -4,6 +4,6 @@ solution: WebApp/WebApp.sln
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: GwxzQ5ZNDMjfoyBGTm5q 
+  github_token: $GwxzQ5ZNDMjfoyBGTm5q  
   on:
     branch: master
