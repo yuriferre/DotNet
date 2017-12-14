@@ -9,6 +9,6 @@ before_install:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: GwxzQ5ZNDMjfoyBGTm5q
+  github_token: 7ae54e057f2c018e277ceb9f565b0122ecb72b45
   on:
     branch: master
