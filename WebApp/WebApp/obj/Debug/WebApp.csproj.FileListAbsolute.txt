@@ -1,0 +1,6 @@
+C:\Users\2pc.yuri\Source\Repos\Website\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\2pc.yuri\Source\Repos\Website\WebApp\WebApp\bin\WebApp.dll
+C:\Users\2pc.yuri\Source\Repos\Website\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\2pc.yuri\Source\Repos\Website\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\2pc.yuri\Source\Repos\Website\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\2pc.yuri\Source\Repos\Website\WebApp\WebApp\obj\Debug\WebApp.pdb
