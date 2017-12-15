@@ -1,9 +1,2 @@
 language: csharp
 solution: WebApp/WebApp.sln
-
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $2533b252e94882a7f171bf50eaface14b7448fa6  
-  on:
-    branch: master
